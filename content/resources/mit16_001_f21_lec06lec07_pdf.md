@@ -1,0 +1,27 @@
+---
+body: ''
+content_type: resource
+draft: false
+file: /courses/unified-engineering-materials-and-structures/mit16_001_f21_lec06lec07.pdf
+file_size: 768397
+file_type: application/pdf
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
+learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+resourcetype: Document
+title: Truss Analysis
+uid: 8071b6d9-17b7-4b59-855c-51a6d81a4359
+video_files:
+  archive_url: ''
+  video_captions_file: ''
+  video_thumbnail_file: ''
+  video_transcript_file: ''
+video_metadata:
+  video_speakers: ''
+  video_tags: ''
+  youtube_description: ''
+  youtube_id: ''
+---
