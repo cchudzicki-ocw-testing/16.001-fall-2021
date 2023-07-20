@@ -6,3 +6,6 @@ draft: false
 title: Labs
 uid: a39486fd-6e70-49a2-876c-c5e7c2e53dc8
 ---
+{{% resource_link "68d8cf73-492c-4cd4-801e-7ff34a028671" "Unified Engineering Materials and Structures Lab 01" %}}
+
+{{% resource_link "c92fd222-5a8e-4ffa-a4d7-f306a9b5a1ab" "Unified Engineering Materials and Structures Lab 02" %}}
