@@ -12,7 +12,7 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: Strain; Transformation of Strain Components
+title: 'Lecture: Strain; Transformation of Strain Components'
 uid: 7dd4c4f8-187e-444f-ac3f-c214a388e58a
 video_files:
   archive_url: ''

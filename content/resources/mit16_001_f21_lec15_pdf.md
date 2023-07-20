@@ -12,7 +12,7 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: Constitutive Material Response
+title: 'Lecture: Constitutive Material Response'
 uid: 18d1f89b-d335-48ef-b90f-5496d2f42ddb
 video_files:
   archive_url: ''

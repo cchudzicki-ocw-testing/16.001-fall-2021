@@ -12,7 +12,7 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: Structural Supports and Reactions; Requirements for Structural Equilibrium
+title: 'Lecture: Structural Supports and Reactions; Requirements for Structural Equilibrium'
 uid: 78bc0b74-6329-4cee-9482-134ea087ea4f
 video_files:
   archive_url: ''

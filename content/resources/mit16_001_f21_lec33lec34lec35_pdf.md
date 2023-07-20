@@ -12,7 +12,7 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: Buckling of Beams
+title: 'Lecture: Buckling of Beams'
 uid: 7425bfd2-ca5a-4a84-a56a-7473dcd9f6d8
 video_files:
   archive_url: ''

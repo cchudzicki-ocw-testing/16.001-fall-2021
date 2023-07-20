@@ -12,7 +12,7 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: Transformation of Stress Components
+title: 'Lecture: Transformation of Stress Components'
 uid: 8c144aef-e8f3-49c4-b68a-84ff022c0f72
 video_files:
   archive_url: ''

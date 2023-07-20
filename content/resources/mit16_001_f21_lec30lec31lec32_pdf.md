@@ -12,7 +12,7 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: Torsion
+title: 'Lecture: Torsion'
 uid: 20fdb81d-8bc0-42b7-9a6c-9208e7376d63
 video_files:
   archive_url: ''

@@ -12,7 +12,7 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: Concept and Uses of Stress at a Point
+title: 'Lecture: Concept and Uses of Stress at a Point'
 uid: 475c4030-9b82-447c-95f6-f9f4620382c4
 video_files:
   archive_url: ''

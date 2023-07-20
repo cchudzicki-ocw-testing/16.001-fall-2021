@@ -12,7 +12,7 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: Moment of Inertia of Beam Cross Section Part 02
+title: 'Lecture: Moment of Inertia of Beam Cross Section Part 02'
 uid: 8273dcd3-b196-4fb3-9935-429486617cb0
 video_files:
   archive_url: ''

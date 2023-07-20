@@ -12,7 +12,7 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: Statically Indeterminate Systems
+title: 'Lecture: Statically Indeterminate Systems'
 uid: 777deead-5d00-410d-90e9-0a749a84851c
 video_files:
   archive_url: ''

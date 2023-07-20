@@ -12,7 +12,7 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: Truss Analysis
+title: 'Lecture: Truss Analysis'
 uid: 8071b6d9-17b7-4b59-855c-51a6d81a4359
 video_files:
   archive_url: ''

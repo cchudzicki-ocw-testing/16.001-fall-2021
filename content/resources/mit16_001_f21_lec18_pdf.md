@@ -12,7 +12,7 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: Summary of Equations of Elasticity
+title: 'Lecture: Summary of Equations of Elasticity'
 uid: 1fb2c9d7-d89f-4f76-a764-842523e318ce
 video_files:
   archive_url: ''

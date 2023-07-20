@@ -12,7 +12,7 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: Introduction to Aerospace Materials and Structures
+title: 'Lecture: Introduction to Aerospace Materials and Structures'
 uid: 4a9e8f4c-f9aa-48ec-aaf7-42ffe335b079
 video_files:
   archive_url: ''

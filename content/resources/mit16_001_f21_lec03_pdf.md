@@ -12,7 +12,7 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: Introduction to Structural Analysis
+title: 'Lecture: Introduction to Structural Analysis'
 uid: aef5df27-86fc-4c2d-8d35-547f13aecdb7
 video_files:
   archive_url: ''

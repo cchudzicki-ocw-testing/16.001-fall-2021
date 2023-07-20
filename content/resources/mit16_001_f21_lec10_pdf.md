@@ -12,7 +12,7 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: Stress Equilibrium
+title: 'Lecture: Stress Equilibrium'
 uid: a88d4f36-5ac0-4b4c-88bf-b7eb4a0e24d7
 video_files:
   archive_url: ''

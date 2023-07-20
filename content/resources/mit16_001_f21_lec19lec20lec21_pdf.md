@@ -12,7 +12,7 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: 'Structural Theories for Slender Elements: Rod Theory'
+title: 'Lecture: Structural Theories for Slender Elements: Rod Theory'
 uid: a693aaff-8b6d-4334-8fa3-d3b8f47958c5
 video_files:
   archive_url: ''
