@@ -12,7 +12,7 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: Unified Engineering Materials and Structures Lab 2
+title: Unified Engineering Materials and Structures Lab 02
 uid: c92fd222-5a8e-4ffa-a4d7-f306a9b5a1ab
 video_files:
   archive_url: ''
