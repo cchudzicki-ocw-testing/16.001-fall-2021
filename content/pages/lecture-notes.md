@@ -29,3 +29,5 @@ The following lecture order is merely for reference. Learners may learn the topi
 {{% resource_link "18d1f89b-d335-48ef-b90f-5496d2f42ddb" "Lecture: Constitutive Material Response" %}}
 
 {{% resource_link "1fb2c9d7-d89f-4f76-a764-842523e318ce" "Lecture: Summary of Equations of Elasticity" %}}
+
+{{% resource_link "a693aaff-8b6d-4334-8fa3-d3b8f47958c5" "Lecture: Structural Theories for Slender Elements: Rod Theory" %}}
