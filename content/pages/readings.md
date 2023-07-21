@@ -184,7 +184,7 @@ n/a
 
 ### Reading Assignments
 
-Analyze the structural response of transversely-loaded slender elements: beams; internal forces and beam deflections
+\[CDL\] 3.2–3.6, and 3.8; \[CDL\] 7.1-7.5, 8.1, and 8.2
 
 ## Week 17
 
