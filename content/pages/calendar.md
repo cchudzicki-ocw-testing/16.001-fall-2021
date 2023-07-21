@@ -94,7 +94,7 @@ Stress transformation and Mohr’s circle, principal stresses, maximum shear str
 
 ### Measurable Outcomes
 
-Explain the basis for transforming stress states between two different cartesian bases.              
+Explain the basis for transforming stress states between two different cartesian bases.               
 Transform two-dimensional stress states, and compute principal stresses and directions. 
 
 ## Week 10
@@ -111,21 +111,21 @@ Define the concept of strain at a material point as the fundamental measure of t
 
 ### Topics
 
-Introduction to aerospace structural mechanics
+Transformation of strain, Mohr’s circle for strain, principal strains, maximum shear strain
 
 ### Measurable Outcomes
 
-Describe a structure, its functions, and associated objectives and tradeoffs.
+Explain the basis for transforming strain states between two different cartesian bases. Transform two-dimensional strain states, and compute principal strains and directions.  
 
 ## Week 12
 
 ### Topics
 
-Introduction to aerospace structural mechanics
+Constitutive equations for a linear elastic material
 
 ### Measurable Outcomes
 
-Describe a structure, its functions, and associated objectives and tradeoffs.
+Describe the constitutive relationship between stress and strain for isotropic and orthotropic linear elastic materials.
 
 ## Week 13
 
@@ -145,12 +145,13 @@ Introduction to aerospace structural mechanics
 
 ### Measurable Outcomes
 
-Describe a structure, its functions, and associated objectives and tradeoffs.  
-M11: Explain the basis for transforming strain states between two different cartesian bases.              
-Transform two-dimensional strain states, and compute principal strains and directions.              
-M12: Describe the constitutive relationship between stress and strain for isotropic and orthotropic linear elastic materials.              
-M13: Discuss engineering/elastic constants, their measurement, and their relationship to the tensorial description of Hooke’s law.                                                                                                                                                 M14: Summarize the key equations of the theory of elasticity. Formulate and simplify problems in general elasticity, apply displacement and traction boundary conditions to problems in elasticity, and solve simple cases.          
+Describe a structure, its functions, and associated objectives and tradeoffs.   
+ 
+
+             
+              
+M13: Discuss engineering/elastic constants, their measurement, and their relationship to the tensorial description of Hooke’s law.                                                                                                                                                 M14: Summarize the key equations of the theory of elasticity. Formulate and simplify problems in general elasticity, apply displacement and traction boundary conditions to problems in elasticity, and solve simple cases.           
 M15: Analyze the structural response of uniaxially-loaded slender elements: Rods and bars 
 
-M16) Analyze the structural response of transversely-loaded slender elements: Beams. Internal forces and beam deflections.           
+M16) Analyze the structural response of transversely-loaded slender elements: Beams. Internal forces and beam deflections.            
 M17: Analyze the stability of slender structural elements subject to compressive loads: buck-ling loads, mode shapes, effects of imperfections, and eccentric loads.
