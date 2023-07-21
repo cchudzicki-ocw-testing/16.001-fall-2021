@@ -52,7 +52,7 @@ Three great principles: equilibrium, compatibility, constitutive material respo
 
 ### Reading Assignments
 
-Define the “Three Great Principles” of solid mechanics: equilibrium, compatibility, and constitutive response. 
+\[CDL\] 1.6,1.7 
 
 ## Week 04
 
@@ -62,7 +62,7 @@ Planar force systems, equipollent forces
 
 ### Reading Assignments
 
-Determine the relation between applied and transmitted forces and moments, for a particle, set of particles, and rigid body in equilibrium. Apply the concept of equipollent force/moment to model and simplify the analysis of force systems. 
+\[CDL\] 1.8,1.9
 
 ## Week 05
 
@@ -112,7 +112,7 @@ Stress transformation and Mohr’s circle, principal stresses, maximum shear str
 
 ### Reading Assignments
 
-Explain the basis for transforming stress states between two different cartesian bases.                                
+Explain the basis for transforming stress states between two different cartesian bases.                                 
 Transform two-dimensional stress states, and compute principal stresses and directions. 
 
 ## Week 10
