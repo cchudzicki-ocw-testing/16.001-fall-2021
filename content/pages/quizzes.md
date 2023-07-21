@@ -18,4 +18,4 @@ Students can use the following quizzes from previous years to prepare for exams.
 
 {{% resource_link "32711305-2afc-4d8d-a8ae-da2442f75709" "Unified Engineering Materials and Structures Quiz 04" %}}
 
-{{% resource_link "4d50ee4d-8f53-46f8-b279-f9b21cbeb3c3" "Unified Engineering Materials and Structures Quiz 05" %}}{{% resource_link "08515cd0-ce44-43c5-97a3-961466c3050d" "Unified Engineering Materials and Structures Quiz 05 solution" %}}
+{{% resource_link "4d50ee4d-8f53-46f8-b279-f9b21cbeb3c3" "Unified Engineering Materials and Structures Quiz 05" %}}; {{% resource_link "08515cd0-ce44-43c5-97a3-961466c3050d" "Unified Engineering Materials and Structures Quiz 05 solution" %}}
