@@ -31,3 +31,13 @@ The following lecture order is merely for reference. Learners may learn the topi
 {{% resource_link "1fb2c9d7-d89f-4f76-a764-842523e318ce" "Lecture: Summary of Equations of Elasticity" %}}
 
 {{% resource_link "a693aaff-8b6d-4334-8fa3-d3b8f47958c5" "Lecture: Structural Theories for Slender Elements: Rod Theory" %}}
+
+{{% resource_link "7944a4d8-48b0-41bc-9d33-9e5120572fdb" "Lecture: Transverse Loading of Slender Structural Elements; Beam Theory" %}}
+
+{{% resource_link "8eb09d66-a334-4563-b4cb-c76d0348cfe2" "Lecture: Moment of Intertia of Beam Cross Section Part 01" %}}
+
+{{% resource_link "8273dcd3-b196-4fb3-9935-429486617cb0" "Lecture: Moment of Inertia of Beam Cross Section Part 02" %}}
+
+{{% resource_link "20fdb81d-8bc0-42b7-9a6c-9208e7376d63" "Lecture: Torsion" %}}
+
+{{% resource_link "7425bfd2-ca5a-4a84-a56a-7473dcd9f6d8" "Lecture: Buckling of Beams" %}}
