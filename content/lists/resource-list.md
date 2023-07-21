@@ -7,6 +7,7 @@ resources:
   content:
   - 4a9e8f4c-f9aa-48ec-aaf7-42ffe335b079
   - aef5df27-86fc-4c2d-8d35-547f13aecdb7
+  - 78bc0b74-6329-4cee-9482-134ea087ea4f
   - a693aaff-8b6d-4334-8fa3-d3b8f47958c5
   - 7944a4d8-48b0-41bc-9d33-9e5120572fdb
   - 7425bfd2-ca5a-4a84-a56a-7473dcd9f6d8
