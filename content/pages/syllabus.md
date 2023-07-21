@@ -1,7 +1,8 @@
 ---
 content_type: page
-description: This page provides information on course policy, including course objectives,
-  grading policy, etc.
+description: 'This page provides information on course policy, including course objectives,
+  and grading policy for the MIT course 16.001 Unified Engineering: Materials and
+  Structures of Fall 2021, taught by Raul Radovitzky.'
 draft: false
 title: Syllabus
 uid: cf7a79f2-63b3-4bcc-a9b1-1c933a6eb969
