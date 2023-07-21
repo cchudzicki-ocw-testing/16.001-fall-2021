@@ -204,4 +204,4 @@ Structural instability and buckling of slender 1D elements subject to compressiv
 
 ### Reading Assignments
 
-n/a
+\[CDL\] 9.1–9.6
