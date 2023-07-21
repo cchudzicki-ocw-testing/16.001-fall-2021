@@ -94,7 +94,7 @@ Stress transformation and Mohr’s circle, principal stresses, maximum shear str
 
 ### Measurable Outcomes
 
-Explain the basis for transforming stress states between two different cartesian bases.                      
+Explain the basis for transforming stress states between two different cartesian bases.                       
 Transform two-dimensional stress states, and compute principal stresses and directions. 
 
 ## Week 10
@@ -173,11 +173,11 @@ Analyze the structural response of transversely-loaded slender elements: beams; 
 
 ### Topics
 
-Analysis of Torsion of slender 1D structural elements: Shafts. Kinematic as- sumptions, internal torque, constitutive law for the cross section: torque-rate- of-twist relation, equilibrium; governing equation; solution for various statically- determinate and indeterminate loading cases
+Analysis of Torsion of slender 1D structural elements: Shafts. Kinematic assumptions, internal torque, constitutive law for the cross-section: torque-rate-of-twist relation, equilibrium; governing equation; solution for various statically- determinate and indeterminate loading cases
 
 ### Measurable Outcomes
 
-Analyze the stability of slender structural elements subject to compressive loads: buck-ling loads, mode shapes, effects of imperfections, and eccentric loads
+Analyze the stability of slender structural elements subject to compressive loads: buckling loads, mode shapes, effects of imperfections, and eccentric loads
 
 ## Week 18
 
