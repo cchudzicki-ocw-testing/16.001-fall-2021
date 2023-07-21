@@ -94,7 +94,7 @@ Stress transformation and Mohr’s circle, principal stresses, maximum shear str
 
 ### Measurable Outcomes
 
-Explain the basis for transforming stress states between two different cartesian bases.                
+Explain the basis for transforming stress states between two different cartesian bases.                 
 Transform two-dimensional stress states, and compute principal stresses and directions. 
 
 ## Week 10
@@ -135,23 +135,23 @@ Engineering elastic constants,  measurement, Generalized Hooke’s law
 
 ### Measurable Outcomes
 
-Discuss engineering and elastic constants, their measurement, and their relationship to the tensorial description of Hooke’s law
+Discuss engineering elastic constants, their measurement, and their relationship to the tensorial description of Hooke’s law
 
 ## Week 14
 
 ### Topics
 
-Introduction to aerospace structural mechanics
+Summary of equations of the theory of elasticity
 
 ### Measurable Outcomes
 
-Describe a structure, its functions, and associated objectives and tradeoffs.    
+Summarize the key equations of the theory of elasticity. Formulate and simplify problems in general elasticity, apply displacement and traction boundary conditions to problems in elasticity, and solve simple cases.  
  
 
-              
                
-                                                                                                                                                M14: Summarize the key equations of the theory of elasticity. Formulate and simplify problems in general elasticity, apply displacement and traction boundary conditions to problems in elasticity, and solve simple cases.            
+                
+                                                                                                                                                            
 M15: Analyze the structural response of uniaxially-loaded slender elements: Rods and bars 
 
-M16) Analyze the structural response of transversely-loaded slender elements: Beams. Internal forces and beam deflections.             
+M16) Analyze the structural response of transversely-loaded slender elements: Beams. Internal forces and beam deflections.              
 M17: Analyze the stability of slender structural elements subject to compressive loads: buck-ling loads, mode shapes, effects of imperfections, and eccentric loads.
