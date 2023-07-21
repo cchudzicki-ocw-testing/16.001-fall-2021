@@ -6,7 +6,7 @@ draft: false
 title: Problem Sets
 uid: 35ff0c60-72d6-422d-b7f6-da9ceea99222
 ---
-Good engineers use accepted standards in reporting work.  In regard to submitted work in Unified, the following is accepted practice:
+Good engineers use accepted standards in reporting work. In regard to submitted work in Unified, the following is accepted practice:
 
 - Each problem should be stapled individually when you turn in your pset.  So, if there are five problems in a pset, you will turn in five separate, stapled problems. 
 - Write your name on all sheets you turn in.
