@@ -2,7 +2,7 @@
 content_type: resource-list
 description: 'This page provides a list view of all resources in the MIT course 16.001
   Unified Engineering: Materials and Structures 0f Fall 2021, taught by Raul Radovitzky.'
-draft: true
+draft: false
 resources:
   content:
   - 4a9e8f4c-f9aa-48ec-aaf7-42ffe335b079
