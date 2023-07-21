@@ -32,7 +32,7 @@ Introduction to aerospace structural mechanics
 
 ### Reading Assignments
 
-Describe a structure, its functions, and associated objectives and tradeoffs.
+\[CDL\] 1.1-1.3
 
 ## Week 02
 
@@ -42,7 +42,7 @@ Introduction to aerospace materials
 
 ### Reading Assignments
 
-Describe the basic mechanical properties of aerospace materials. Describe the general classes of materials used in aerospace and their specific applications. 
+\[AJ\] 1,2
 
 ## Week 03
 
@@ -112,7 +112,7 @@ Stress transformation and Mohr’s circle, principal stresses, maximum shear str
 
 ### Reading Assignments
 
-Explain the basis for transforming stress states between two different cartesian bases.                               
+Explain the basis for transforming stress states between two different cartesian bases.                                
 Transform two-dimensional stress states, and compute principal stresses and directions. 
 
 ## Week 10
