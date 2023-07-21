@@ -90,30 +90,31 @@ Define the concept of stress at a material point and its mathematical representa
 
 ### Topics
 
-Truss analysis: method of joints, methodof sections
+Stress transformation and Mohr’s circle, principal stresses, maximum shear stress
 
 ### Measurable Outcomes
 
-06: Analyze truss structures using the method of joints and the method of sections.
+Explain the basis for transforming stress states between two different cartesian bases.             
+Transform two-dimensional stress states, and compute principal stresses and directions. 
 
 ## Week 10
 
 ### Topics
 
-Truss analysis: method of joints, methodof sections
+Definition of strain,extensional and shear strain, strain-displacement relations
 
 ### Measurable Outcomes
 
-06: Analyze truss structures using the method of joints and the method of sections.  
+Define the concept of strain at a material point as the fundamental measure of the local state of deformation and its relation to the displacement field. Describe strain as a second-order tensor, its cartesian components, and their meaning.   
+             
             
-           
+          
          
-M09: Explain the basis for transforming stress states between two different cartesian bases.            
-Transform two-dimensional stress states, and compute principal stresses and directions.            
-M10: Define the concept of strain at a material point as the fundamental measure of the local state of deformation and its relation to the displacement field. Describe strain as a second-order tensor, its cartesian components, and their meaning.            
-M11: Explain the basis for transforming strain states between two different cartesian bases.            
-Transform two-dimensional strain states, and compute principal strains and directions.            
-M12: Describe the constitutive relationship between stress and strain for isotropic and orthotropic linear elastic materials.            
-M13: Discuss engineering/elastic constants, their measurement, and their relationship to the tensorial description of Hooke’s law.                                                                                                                                                 M14: Summarize the key equations of the theory of elasticity. Formulate and simplify problems in general elasticity, apply displacement and traction boundary conditions to problems in elasticity, and solve simple cases.        
-M15: Analyze the structural response of uniaxially-loaded slender elements: Rods and bars M16) Analyze the structural response of transversely-loaded slender elements: Beams. Internal forces and beam deflections.         
+M11: Explain the basis for transforming strain states between two different cartesian bases.             
+Transform two-dimensional strain states, and compute principal strains and directions.             
+M12: Describe the constitutive relationship between stress and strain for isotropic and orthotropic linear elastic materials.             
+M13: Discuss engineering/elastic constants, their measurement, and their relationship to the tensorial description of Hooke’s law.                                                                                                                                                 M14: Summarize the key equations of the theory of elasticity. Formulate and simplify problems in general elasticity, apply displacement and traction boundary conditions to problems in elasticity, and solve simple cases.         
+M15: Analyze the structural response of uniaxially-loaded slender elements: Rods and bars 
+
+M16) Analyze the structural response of transversely-loaded slender elements: Beams. Internal forces and beam deflections.          
 M17: Analyze the stability of slender structural elements subject to compressive loads: buck-ling loads, mode shapes, effects of imperfections, and eccentric loads.
