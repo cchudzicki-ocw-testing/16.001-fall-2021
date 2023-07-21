@@ -36,3 +36,13 @@ Communication is a key part of the ability of an engineer.  Demonstrating your 
 {{% resource_link "67955823-a673-435e-9c19-8984ada30f63" "Unified Engineering Materials and Structures Pset 07" %}}; {{% resource_link "527e5cfd-09e7-4057-bf94-d98054458270" "Unified Engineering Materials and Structures Pset 07 Solution" %}}
 
 {{% resource_link "2b0b6f5e-8d31-4693-a4ec-b85f38f684fc" "Unified Engineering Materials and Structures Pset 08" %}}; {{% resource_link "d176f65c-f45a-4c6f-88f4-82fb217eea4f" "Unified Engineering Materials and Structures Pset 08 Solution" %}}
+
+{{% resource_link "d4cb1737-b6b4-48af-bffa-d63438d797f9" "Unified Engineering Materials and Structures Pset 09" %}}; {{% resource_link "94422aca-5d89-425c-b1b9-86194594ebe1" "Unified Engineering Materials and Structures Pset 09 Solution" %}}
+
+{{% resource_link "18cc7749-d273-4d10-97b9-13158a765f47" "Unified Engineering Materials and Structures Pset 10" %}}; {{% resource_link "178be6c5-b361-4043-96fe-cb512881143a" "Unified Engineering Materials and Structures Pset 10 Solution" %}}
+
+{{% resource_link "eefeb5f3-463e-418c-9e37-c14524ea3c37" "Unified Engineering Materials and Structures Pset 11" %}}; {{% resource_link "4248cefb-73ef-4057-a1ad-121ae72e7435" "Unified Engineering Materials and Structures Pset 11 Solution" %}}
+
+{{% resource_link "9ec5026e-738e-4377-a12d-dcc9add8179a" "Unified Engineering Materials and Structures Pset 12" %}}; {{% resource_link "e00235d0-71bc-4029-a0b0-67d644ae45e4" "Unified Engineering Materials and Structures Pset 12 Solution" %}}
+
+{{% resource_link "d5dee448-0a7f-4f7e-82da-14b88b636c41" "Unified Engineering Materials and Structures Pset 13" %}}; {{% resource_link "8dc58bf9-5d55-4683-8be7-a3701f7b42a3" "Unified Engineering Materials and Structures Pset 13 Solution" %}}
