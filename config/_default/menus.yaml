@@ -27,3 +27,7 @@ leftnav:
   name: Quizzes
   pageRef: /pages/quizzes
   weight: 70
+- identifier: b46d4128-fb16-40d7-8233-1d2c09fcc607
+  name: Resource List
+  pageRef: /lists/resource-list
+  weight: 80
