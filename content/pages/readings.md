@@ -18,11 +18,11 @@ R. Hibbeler, *Mechanics of Materials* (any recent edition), Pearson. ISBN: 97801
 
 Also useful:
 
-M. F. Ashby and D. R. H. Jones, *Engineering Materials 2*, Pergamon Press, 1986. ISBN: 9780081020692.
+M. F. Ashby and D. R. H. Jones, *Engineering Materials 2: An Introduction to Microstructures and Processing*, Pergamon Press, 1986. ISBN: 9780080325323.
 
-M. F. Ashby, *Materials Selection in Mechanical Design*, Pergamon Press, 1992. ISBN: 9780081005996.
+M. F. Ashby, *Materials Selection in Mechanical Design*, Pergamon Press, 1992. ISBN: 9780750627276.
 
-Bickford, *Mechanics of Solids*, Irwin, 1993. ISBN: 9780256114256.
+W. Bickford, *Mechanics of Solids: Concepts and applications*, Irwin, 1993. ISBN: 9780256114256.
 
 ## Week 01
 
