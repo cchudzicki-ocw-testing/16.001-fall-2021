@@ -12,7 +12,7 @@ The following textbooks are used in the reading assignments.
 
 \[AJ\] = M. F. Ashby and D. R. H. Jones, *Engineering Materials 1: An Introduction to Their Properties and Applications*, Pergamon Press, 1980. ISBN: 9780080261393.
 
-Engineering Mechanics: Statics, R. Hibbeler (any recent edition)
+R. Hibbeler, *Engineering Mechanics: Statics* (any recent edition), Pearson, 2013. \[Free [eBook](https://archive.org/details/staticsstudypack0000hibb) from the Internet Archive\] \[Additional information and [access](https://openlibrary.org/books/OL29078979M/Study_Pack_for_Engineering_Mechanics) via Open Library\]
 
 Mechanics of Materials, R. Hibbeler (any recent edition) 
 
@@ -112,7 +112,7 @@ Stress transformation and Mohr’s circle, principal stresses, maximum shear str
 
 ### Reading Assignments
 
-Explain the basis for transforming stress states between two different cartesian bases.                        
+Explain the basis for transforming stress states between two different cartesian bases.                         
 Transform two-dimensional stress states, and compute principal stresses and directions. 
 
 ## Week 10
