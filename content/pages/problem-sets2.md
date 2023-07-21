@@ -27,4 +27,4 @@ Communication is a key part of the ability of an engineer.  Demonstrating your 
 
 {{% resource_link "4856d5fe-a8dd-4907-aa38-fcee70eed40a" "Unified Engineering Materials and Structures Pset 03" %}}; {{% resource_link "2bb94884-0c0e-45b7-9c91-7a0980e6ce13" "Unified Engineering Materials and Structures Pset 03 Solution" %}}
 
-{{% resource_link "199cdeed-ad73-4c94-a0ae-bea11f8e164b" "Unified Engineering Materials and Structures Pset 04" %}}
+{{% resource_link "199cdeed-ad73-4c94-a0ae-bea11f8e164b" "Unified Engineering Materials and Structures Pset 04" %}}; {{% resource_link "16b584c2-883b-4a00-a9b2-8811ed31147a" "Unified Engineering Materials and Structures Pset 04 Solution" %}}
