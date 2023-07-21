@@ -94,7 +94,7 @@ Stress transformation and Mohr’s circle, principal stresses, maximum shear str
 
 ### Measurable Outcomes
 
-Explain the basis for transforming stress states between two different cartesian bases.                     
+Explain the basis for transforming stress states between two different cartesian bases.                      
 Transform two-dimensional stress states, and compute principal stresses and directions. 
 
 ## Week 10
@@ -183,8 +183,8 @@ Analyze the stability of slender structural elements subject to compressive load
 
 ### Topics
 
-Introduction to aerospace structural mechanics
+Structural instability and buckling of slender 1D elements subject to compressive loads; analysis of buckling loads and mode shapes for various boundary conditions; effect of imperfections and eccentric loading
 
 ### Measurable Outcomes
 
-Describe a structure, its functions, and associated objectives and tradeoffs.
+n/a
