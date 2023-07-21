@@ -21,3 +21,5 @@ Also useful:
 M. F. Ashby and D. R. H. Jones, Engineering Materials 2, Pergamon Press, 1986. (Polymers, metal alloys)
 
 M. F. Ashby, Materials Selection in Mechanical Design, Pergamon Press, 1992 (Materials selection and design)
+
+Bickford, Mechanics of Solids, Irwin, 1993
