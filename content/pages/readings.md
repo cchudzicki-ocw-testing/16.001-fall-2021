@@ -12,17 +12,17 @@ The following textbooks are used in the reading assignments.
 
 \[AJ\] = M. F. Ashby and D. R. H. Jones, *Engineering Materials 1: An Introduction to Their Properties and Applications*, Pergamon Press, 1980. ISBN: 9780080261393.
 
-R. Hibbeler, *Engineering Mechanics: Statics* (any recent edition), Pearson. ISBN:  \[Free [eBook](https://archive.org/details/staticsstudypack0000hibb) from the Internet Archive\] \[Additional information and [access](https://openlibrary.org/books/OL29078979M/Study_Pack_for_Engineering_Mechanics) via Open Library\]
+R. Hibbeler, *Engineering Mechanics: Statics* (any recent edition), Pearson. ISBN: 9780132915540. \[Free [eBook](https://archive.org/details/staticsstudypack0000hibb) from the Internet Archive\] \[Additional information and [access](https://openlibrary.org/books/OL29078979M/Study_Pack_for_Engineering_Mechanics) via Open Library\]
 
 R. Hibbeler, *Mechanics of Materials* (any recent edition), Pearson. ISBN: 9780134319650.
 
 Also useful:
 
-M. F. Ashby and D. R. H. Jones, Engineering Materials 2, Pergamon Press, 1986. (Polymers, metal alloys)
+M. F. Ashby and D. R. H. Jones, *Engineering Materials 2*, Pergamon Press, 1986. (Polymers, metal alloys)
 
-M. F. Ashby, Materials Selection in Mechanical Design, Pergamon Press, 1992 (Materials selection and design)
+M. F. Ashby, *Materials Selection in Mechanical Design*, Pergamon Press, 1992 (Materials selection and design)
 
-Bickford, Mechanics of Solids, Irwin, 1993
+Bickford, *Mechanics of Solids*, Irwin, 1993
 
 ## Week 01
 
@@ -112,7 +112,7 @@ Stress transformation and Mohr’s circle, principal stresses, maximum shear str
 
 ### Reading Assignments
 
-Explain the basis for transforming stress states between two different cartesian bases.                          
+Explain the basis for transforming stress states between two different cartesian bases.                           
 Transform two-dimensional stress states, and compute principal stresses and directions. 
 
 ## Week 10
