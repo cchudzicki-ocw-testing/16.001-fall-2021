@@ -1,7 +1,7 @@
 ---
 content_type: page
 description: 'This page includes the problem sets from MIT course 16.001 Unified Engineering:  Materials
-  and Structures of Fall 2021.'
+  and Structures of Fall 2021 taught by Raul Radovitzky.'
 draft: false
 title: Problem Sets
 uid: 35ff0c60-72d6-422d-b7f6-da9ceea99222
