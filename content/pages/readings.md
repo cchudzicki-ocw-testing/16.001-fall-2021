@@ -52,7 +52,7 @@ Three great principles: equilibrium, compatibility, constitutive material respo
 
 ### Reading Assignments
 
-\[CDL\] 1.6,1.7 
+\[AJ\] 1,2
 
 ## Week 04
 
@@ -62,7 +62,7 @@ Planar force systems, equipollent forces
 
 ### Reading Assignments
 
-\[CDL\] 1.8,1.9
+\[CDL\] 1.6,1.7 
 
 ## Week 05
 
@@ -72,7 +72,7 @@ Support  reactions,  freebody  diagrams, static determinacy
 
 ### Reading Assignments
 
-Represent and use idealizations of structural supports. Draw Free Body Diagrams for structural systems. Classify mechanical systems according to their state of equilibrium: underdetermined, determinate, indeterminate. Calculate reactions in determinate.
+\[CDL\] 1.8,1.9
 
 ## Week 06
 
@@ -82,7 +82,7 @@ Truss analysis: method of joints, method of sections
 
 ### Reading Assignments
 
-Analyze truss structures using the method of joints and the method of sections.
+\[CDL\] 1.9
 
 ## Week 07
 
@@ -92,7 +92,7 @@ Statically indeterminate systems
 
 ### Reading Assignments
 
-Define the constitutive relationship for elastic bars. Apply compatibility of deformation in a variety of structural configurations. Analyze statically indeterminate bar and truss systems using the “Three Great Principles.”
+\[CDL\] 2.1, 2.4, 1.10, 1.11, 2.7
 
 ## Week 08
 
@@ -112,7 +112,7 @@ Stress transformation and Mohr’s circle, principal stresses, maximum shear str
 
 ### Reading Assignments
 
-Explain the basis for transforming stress states between two different cartesian bases.                                 
+Explain the basis for transforming stress states between two different cartesian bases.                                  
 Transform two-dimensional stress states, and compute principal stresses and directions. 
 
 ## Week 10
