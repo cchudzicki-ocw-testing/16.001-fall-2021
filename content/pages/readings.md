@@ -194,7 +194,7 @@ Analysis of Torsion of slender 1D structural elements: Shafts. Kinematic assumpt
 
 ### Reading Assignments
 
-Analyze the stability of slender structural elements subject to compressive loads: buck-ling loads, mode shapes, effects of imperfections, and eccentric loads
+\[CDL\] 6.1–6.5
 
 ## Week 18
 
