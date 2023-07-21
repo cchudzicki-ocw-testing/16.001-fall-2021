@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/unified-engineering-materials-and-structures/mit16_00s_f21_lab02.pdf
+file: /courses/16-001-unified-engineering-materials-and-structures-fall-2021/mit16_00s_f21_lab02.pdf
 file_size: 122304
 file_type: application/pdf
 image_metadata:
