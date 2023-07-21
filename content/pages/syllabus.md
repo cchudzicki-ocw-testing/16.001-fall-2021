@@ -26,14 +26,14 @@ In the MIT Department of Aeronautics and Astronautics and Unified Engineering, a
 
 ## Course Objectives
 
-The basic objective of Unified is to give a solid understanding of the fundamental disciplines of Aerospace Engineering and to give insight into their interrelationships and applications.  In the Fall, these disciplines are Materials & Structures (16.001) and Signals & Systems (16.002).  In the Spring, the disciplines are Fluid Dynamics (16.003) and Thermodynamics (16.004).            
+The basic objective of Unified is to give a solid understanding of the fundamental disciplines of Aerospace Engineering and to give insight into their interrelationships and applications.  In the Fall, these disciplines are Materials & Structures (16.001) and Signals & Systems (16.002).  In the Spring, the disciplines are Fluid Dynamics (16.003) and Thermodynamics (16.004).             
 The second objective of Unified is to guide you toward an understanding of the fundamental skills, knowledge, and sensitivities that are the traits of a successful engineer.  These include the skills necessary to work successfully in a group (including technical and graphical communication) and those of self-education (reading, research, and experimentation).  Professional engineers have the knowledge and confidence to make estimates of poorly known parameters, create conceptual models of systems, assess the applicability of various models and their resulting solutions to encountered problems, and design new solutions to meet technical challenges. Aerospace systems in particular are very unforgiving, one can do 99.5% of the job well, but it is the error in the remaining 0.5% that may cause a major accident or failure. Aerospace engineers are known for their attention to detail and, while we do not expect perfection, we do expect that all work carried out as part of Unified Engineering be done with care and as well as possible given the time constraints of the course. 
 
-1. Separate but Unified           
+1. Separate but Unified            
     While the disciplines have separate course numbers and will receive separate letter grades, Unified is nonetheless taught with a significant amount of unification.  This includes the structure (assignments, quizlets, exams) as well as the grading policy of the individual courses.  As such, the contents of this Course Facts apply equally to 16.001-16.004.  Also, we will have topics that are not specifically about a single discipline, but yet will be taught by one of the disciplinary faculty.  This is, in particular, true for some of the labs which often bring together more than one discipline and/or involve some aspect of design.
-2. Teaching Methods           
+2. Teaching Methods            
     The Unified Engineering Team is firmly committed to helping you learn.  This commitment takes many forms, including a process of continuous improvement in our teaching effectiveness.   During this semester, the faculty will be exploiting teaching methods proven to increase students’ learning. These methods include presenting information to the student in the context of a compelling challenge or problem, stressing active versus passive learning in the classroom, enhancing feedback to the student, providing multiple opportunities for hands-on learning, etc.
-3. Learning and Grades           
+3. Learning and Grades            
     Learning is a lifelong endeavor whereas learning for grades is often quite temporary (i.e. the material often is not remembered as time after an exam increases).  Further, while pursuing learning for a lifetime ability, one tends to acquire an understanding that is demonstrated in typical assessment activities, such as exams, and thereby one achieves the grades representative of the learning level desired and as expressed in the definition of grades at MIT (see below). We strongly encourage you to view all activities within Unified as opportunities for learning with the final goal of having you prepared for your career after Unified.
 
 ## Textbooks
@@ -56,11 +56,39 @@ W. Bickford, *Mechanics of Solids: Concepts and applications*, Irwin, 1993. ISBN
 
 ## Assignments, Quizlets, and Exams 
 
-1. Problem Sets         
+1. Problem Sets          
     A sample homework solution is provided at the end of this document illustrating the proper way to write up a problem solution. Doing homework helps to engage with the concepts and material taught in class on a deeper level.  To enhance the learning process, *we strongly suggest that you first try to solve the problems by yourself .*
-2. Labs         
+2. Labs          
     Labs will often require working on a team of two or more Unified students. The lab report details and submission procedure will be specified for each lab.      
-3. Exams         
+3. Exams          
     There will be an in-class  2-hour Midterm for each of 16.001 (10/28) and 16.002 (11/5) and a final exam for each course.
 
-Grades
+## Grades
+
+The rules of the MIT faculty define grades in terms of the degree of mastery of course material.  These definitions are listed in the Bulletin and will be applied in this course. The following is the MIT policy on assigning grades to students.
+
+Passing Grades:  Undergraduate and graduate students who satisfactorily complete the work of a subject by the end of the term receive one of the following grades:
+
+A—Exceptionally good performance demonstrating a superior understanding of the subject matter, a foundation of extensive knowledge, and skillful use of concepts and/or materials.
+
+B—Good performance demonstrating the capacity to use the appropriate concepts, a good understanding of the subject matter, and an ability to handle the problems and materials encountered in the subject.
+
+C—Adequate performance demonstrating an adequate understanding of the subject matter, an ability to handle relatively simple problems, and adequate preparation for moving on to more advanced work in the field. 
+
+D—Minimally acceptable performance demonstrating at least partial familiarity with the subject matter and some capacity to deal with relatively simple problems, but also demonstrating deficiencies serious enough to make it inadvisable to proceed further in the field without additional work.
+
+**Use of letter grades on submitted work and participation**: The work you submit and overall participation in Unified will receive a numeric grade based on the MIT grade point scale as described below.  Specifically, you will receive grades for:
+
+●      each individual problem on a problem set
+
+●      each exam
+
+●      lab assignments
+
+The mapping from numerical to letter grades is: 5 = A, 4 = B, 3 = C, 2 = D, 0 = F. +/- modifiers are set at 0.2-grade points. For example, your grade on a midterm might be a 4.4.  This grade is between an A- (4.8) and B+ (4.2). 
+
+Weights will be assigned to the individual problems on problem sets.  Most problems will be of equal unit weight value, however particularly long and/or challenging problems could be given increased weight value (e.g. a weight of 2 would be twice the default problem value). Using these weightings, a weighted overall grade point for homework will be determined.
+
+**Unified course grade**: The Unified course grade will be defined based on your “Unified grade point average” with a weighting of **20% for problem sets and labs, 20% for qruizlets, 25% for the midterm, and 35% for the final exam**. Specifically, the final course letter grades will be assigned using this numeric Unified grade point average, as well as considering the distribution of your grades throughout the semester.  At a minimum, you will receive a course letter grade that is equal to the maximum letter grade that your numeric course grade is above.  For example, if your numeric course grade is a 4.3, you would at least receive a B+ for your course letter grade.
+
+**Re-grade Requests:** To correct clerical errors as well as suggest alternative grading, re-grade requests must be submitted.  Re-grades on problem set problems, labs, quizlets, and exams will be considered when brought to the Instructors and TAs within 2 weeks of the latest of the graded assignment being returned or the solution being posted. Each re-grade request must include a detailed explanation of the nature of the request and be effected on Gradescope using the functionality available for this purpose. The appropriate grader will review the request and explain any changes that will or will not be made to the grade. If a new grade is logged, it will be provided on Gradescope.
