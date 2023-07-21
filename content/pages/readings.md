@@ -22,7 +22,7 @@ M. F. Ashby and D. R. H. Jones, *Engineering Materials 2*, Pergamon Press, 1986.
 
 M. F. Ashby, *Materials Selection in Mechanical Design*, Pergamon Press, 1992. ISBN: 9780081005996.
 
-Bickford, *Mechanics of Solids*, Irwin, 1993
+Bickford, *Mechanics of Solids*, Irwin, 1993. ISBN: 9780256114256.
 
 ## Week 01
 
@@ -112,7 +112,7 @@ Stress transformation and Mohr’s circle, principal stresses, maximum shear str
 
 ### Reading Assignments
 
-Explain the basis for transforming stress states between two different cartesian bases.                              
+Explain the basis for transforming stress states between two different cartesian bases.                               
 Transform two-dimensional stress states, and compute principal stresses and directions. 
 
 ## Week 10
