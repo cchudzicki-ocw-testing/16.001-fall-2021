@@ -32,7 +32,7 @@ Introduction to aerospace structural mechanics
 
 ### Reading Assignments
 
-\[CDL\] 1.1-1.3
+\[CDL\] 1.1–1.3
 
 ## Week 02
 
@@ -42,7 +42,7 @@ Introduction to aerospace materials
 
 ### Reading Assignments
 
-\[AJ\] 1,2
+\[AJ\] 1, and 2
 
 ## Week 03
 
@@ -52,7 +52,7 @@ Three great principles: equilibrium, compatibility, constitutive material respo
 
 ### Reading Assignments
 
-\[AJ\] 1,2
+\[AJ\] 1, and 2
 
 ## Week 04
 
@@ -62,7 +62,7 @@ Planar force systems, equipollent forces
 
 ### Reading Assignments
 
-\[CDL\] 1.6,1.7 
+\[CDL\] 1.6, and 1.7 
 
 ## Week 05
 
@@ -72,7 +72,7 @@ Support  reactions,  freebody  diagrams, static determinacy
 
 ### Reading Assignments
 
-\[CDL\] 1.8,1.9
+\[CDL\] 1.8, and 1.9
 
 ## Week 06
 
@@ -92,7 +92,7 @@ Statically indeterminate systems
 
 ### Reading Assignments
 
-\[CDL\] 2.1, 2.4, 1.10, 1.11, 2.7
+\[CDL\] 2.1, 2.4, 1.10, 1.11, and 2.7
 
 ## Week 08
 
@@ -102,7 +102,7 @@ Stress: definition, cartesian components, equilibrium
 
 ### Reading Assignments
 
-Define the concept of stress at a material point and its mathematical representation as a second-order tensor. Describe the state of stress at a point using cartesian tensorial components, and their meaning as a measure of the local measure of loading at material points in structural systems. Explain stress equilibrium in differential form.   
+\[CDL\] 4.2, 4.3, and 4.4   
 
 ## Week 09
 
@@ -112,8 +112,7 @@ Stress transformation and Mohr’s circle, principal stresses, maximum shear str
 
 ### Reading Assignments
 
-Explain the basis for transforming stress states between two different cartesian bases.                                  
-Transform two-dimensional stress states, and compute principal stresses and directions. 
+\[CDL\] 4.5, 4.6, and 4.7 
 
 ## Week 10
 
@@ -123,7 +122,7 @@ Definition of strain,extensional and shear strain, strain-displacement relations
 
 ### Reading Assignments
 
-Define the concept of strain at a material point as the fundamental measure of the local state of deformation and its relation to the displacement field. Describe strain as a second-order tensor, its cartesian components, and their meaning.
+\[CDL\] 4.8, 4.9, and 4.10
 
 ## Week 11
 
