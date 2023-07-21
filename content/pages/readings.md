@@ -1,7 +1,8 @@
 ---
 content_type: page
 description: 'This page provides the reading assignments for each topic in the MIT
-  course 16.001 Unified Engineering: Materials and Structures of Fall 2021.'
+  course 16.001 Unified Engineering: Materials and Structures of Fall 2021taught by
+  Raul Radovitzky.'
 draft: false
 title: Readings
 uid: 59a0dec9-e4ea-4194-b446-396e4b281635
