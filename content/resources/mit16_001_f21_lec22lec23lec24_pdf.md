@@ -13,7 +13,7 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: 'Lecture: Transverse Loading of Slender Structural Elements: Beam Theory'
+title: 'Lecture: Transverse Loading of Slender Structural Elements; Beam Theory'
 uid: 7944a4d8-48b0-41bc-9d33-9e5120572fdb
 video_files:
   archive_url: ''
