@@ -43,7 +43,12 @@
     "website": "unified-engineering-materials-and-structures"
   },
   "learning_resource_types": [
-    "Lecture Notes"
+    "Lecture Notes",
+    "Problem Sets with Solutions",
+    "Exams with Solutions",
+    "Labs",
+    "Online Textbook",
+    "Readings"
   ],
   "site_uid": "f95a24ad-4f79-4288-88f7-c176b7062cc6",
   "site_short_id": "16.001-fall-2021"
