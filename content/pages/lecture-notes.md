@@ -25,3 +25,7 @@ The following lecture order is merely for reference. Learners may learn the topi
 {{% resource_link "8c144aef-e8f3-49c4-b68a-84ff022c0f72" "Lecture: Transformation of Stress Components" %}}
 
 {{% resource_link "7dd4c4f8-187e-444f-ac3f-c214a388e58a" "Lecture: Strain; Transformation of Strain Components" %}}
+
+{{% resource_link "18d1f89b-d335-48ef-b90f-5496d2f42ddb" "Lecture: Constitutive Material Response" %}}
+
+{{% resource_link "1fb2c9d7-d89f-4f76-a764-842523e318ce" "Lecture: Summary of Equations of Elasticity" %}}
