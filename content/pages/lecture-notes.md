@@ -17,3 +17,11 @@ The following lecture order is merely for reference. Learners may learn the topi
 {{% resource_link "8071b6d9-17b7-4b59-855c-51a6d81a4359" "Lecture: Truss Analysis" %}}
 
 {{% resource_link "777deead-5d00-410d-90e9-0a749a84851c" "Lecture: Statically Indeterminate Systems" %}}
+
+{{% resource_link "475c4030-9b82-447c-95f6-f9f4620382c4" "Lecture: Concept and Uses of Stress at a Point" %}}
+
+{{% resource_link "a88d4f36-5ac0-4b4c-88bf-b7eb4a0e24d7" "Lecture: Stress Equilibrium" %}}
+
+{{% resource_link "8c144aef-e8f3-49c4-b68a-84ff022c0f72" "Lecture: Transformation of Stress Components" %}}
+
+{{% resource_link "7dd4c4f8-187e-444f-ac3f-c214a388e58a" "Lecture: Strain; Transformation of Strain Components" %}}
