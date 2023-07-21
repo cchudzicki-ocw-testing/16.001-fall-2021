@@ -152,7 +152,7 @@ Engineering elastic constants,  measurement, Generalized Hooke’s law
 
 ### Reading Assignments
 
-Discuss engineering elastic constants, their measurement, and their relationship to the tensorial description of Hooke’s law
+\[CDL\] 5.6
 
 ## Week 14
 
@@ -162,7 +162,7 @@ Summary of equations of the theory of elasticity
 
 ### Reading Assignments
 
-Summarize the key equations of the theory of elasticity. Formulate and simplify problems in general elasticity, apply displacement and traction boundary conditions to problems in elasticity, and solve simple cases.
+n/a
 
 ## Week 15
 
@@ -172,7 +172,7 @@ Analysis of rods: uniaxial loading of slender 1D structural elements
 
 ### Reading Assignments
 
-Analyze the structural response of uniaxially-loaded slender elements: Rods and bars 
+n/a
 
 ## Week 16
 
