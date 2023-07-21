@@ -30,7 +30,7 @@ Bickford, Mechanics of Solids, Irwin, 1993
 
 Introduction to aerospace structural mechanics
 
-### Measurable Outcomes
+### Reading Assignments
 
 Describe a structure, its functions, and associated objectives and tradeoffs.
 
@@ -40,7 +40,7 @@ Describe a structure, its functions, and associated objectives and tradeoffs.
 
 Introduction to aerospace materials
 
-### Measurable Outcomes
+### Reading Assignments
 
 Describe the basic mechanical properties of aerospace materials. Describe the general classes of materials used in aerospace and their specific applications. 
 
@@ -50,7 +50,7 @@ Describe the basic mechanical properties of aerospace materials. Describe the ge
 
 Three great principles: equilibrium, compatibility, constitutive material response; equilibrium of a particle, system of particles (freebody diagram)
 
-### Measurable Outcomes
+### Reading Assignments
 
 Define the “Three Great Principles” of solid mechanics: equilibrium, compatibility, and constitutive response. 
 
@@ -60,7 +60,7 @@ Define the “Three Great Principles” of solid mechanics: equilibrium, compati
 
 Planar force systems, equipollent forces
 
-### Measurable Outcomes
+### Reading Assignments
 
 Determine the relation between applied and transmitted forces and moments, for a particle, set of particles, and rigid body in equilibrium. Apply the concept of equipollent force/moment to model and simplify the analysis of force systems. 
 
@@ -70,7 +70,7 @@ Determine the relation between applied and transmitted forces and moments, for a
 
 Support  reactions,  freebody  diagrams, static determinacy
 
-### Measurable Outcomes
+### Reading Assignments
 
 Represent and use idealizations of structural supports. Draw Free Body Diagrams for structural systems. Classify mechanical systems according to their state of equilibrium: underdetermined, determinate, indeterminate. Calculate reactions in determinate.
 
@@ -80,7 +80,7 @@ Represent and use idealizations of structural supports. Draw Free Body Diagrams 
 
 Truss analysis: method of joints, method of sections
 
-### Measurable Outcomes
+### Reading Assignments
 
 Analyze truss structures using the method of joints and the method of sections.
 
@@ -90,7 +90,7 @@ Analyze truss structures using the method of joints and the method of sections.
 
 Statically indeterminate systems
 
-### Measurable Outcomes
+### Reading Assignments
 
 Define the constitutive relationship for elastic bars. Apply compatibility of deformation in a variety of structural configurations. Analyze statically indeterminate bar and truss systems using the “Three Great Principles.”
 
@@ -100,7 +100,7 @@ Define the constitutive relationship for elastic bars. Apply compatibility of de
 
 Stress: definition, cartesian components, equilibrium
 
-### Measurable Outcomes
+### Reading Assignments
 
 Define the concept of stress at a material point and its mathematical representation as a second-order tensor. Describe the state of stress at a point using cartesian tensorial components, and their meaning as a measure of the local measure of loading at material points in structural systems. Explain stress equilibrium in differential form.   
 
@@ -110,9 +110,9 @@ Define the concept of stress at a material point and its mathematical representa
 
 Stress transformation and Mohr’s circle, principal stresses, maximum shear stress
 
-### Measurable Outcomes
+### Reading Assignments
 
-Explain the basis for transforming stress states between two different cartesian bases.                       
+Explain the basis for transforming stress states between two different cartesian bases.                        
 Transform two-dimensional stress states, and compute principal stresses and directions. 
 
 ## Week 10
@@ -121,7 +121,7 @@ Transform two-dimensional stress states, and compute principal stresses and dire
 
 Definition of strain,extensional and shear strain, strain-displacement relations
 
-### Measurable Outcomes
+### Reading Assignments
 
 Define the concept of strain at a material point as the fundamental measure of the local state of deformation and its relation to the displacement field. Describe strain as a second-order tensor, its cartesian components, and their meaning.
 
@@ -131,7 +131,7 @@ Define the concept of strain at a material point as the fundamental measure of t
 
 Transformation of strain, Mohr’s circle for strain, principal strains, maximum shear strain
 
-### Measurable Outcomes
+### Reading Assignments
 
 Explain the basis for transforming strain states between two different cartesian bases. Transform two-dimensional strain states, and compute principal strains and directions.  
 
@@ -141,7 +141,7 @@ Explain the basis for transforming strain states between two different cartesian
 
 Constitutive equations for a linear elastic material; constitutive equations: isotropic and orthotropic elastic materials
 
-### Measurable Outcomes
+### Reading Assignments
 
 Describe the constitutive relationship between stress and strain for isotropic and orthotropic linear elastic materials.
 
@@ -151,7 +151,7 @@ Describe the constitutive relationship between stress and strain for isotropic a
 
 Engineering elastic constants,  measurement, Generalized Hooke’s law
 
-### Measurable Outcomes
+### Reading Assignments
 
 Discuss engineering elastic constants, their measurement, and their relationship to the tensorial description of Hooke’s law
 
@@ -161,7 +161,7 @@ Discuss engineering elastic constants, their measurement, and their relationship
 
 Summary of equations of the theory of elasticity
 
-### Measurable Outcomes
+### Reading Assignments
 
 Summarize the key equations of the theory of elasticity. Formulate and simplify problems in general elasticity, apply displacement and traction boundary conditions to problems in elasticity, and solve simple cases.
 
@@ -171,7 +171,7 @@ Summarize the key equations of the theory of elasticity. Formulate and simplify 
 
 Analysis of rods: uniaxial loading of slender 1D structural elements
 
-### Measurable Outcomes
+### Reading Assignments
 
 Analyze the structural response of uniaxially-loaded slender elements: Rods and bars 
 
@@ -183,7 +183,7 @@ Analyze the structural response of uniaxially-loaded slender elements: Rods and 
 2. Euler-Beam Theory:  beam deflections, moment-curvature relation, kinematic boundary conditions. Statically determinate and indeterminate beams
 3. Cross-section properties: first and second moment of area, center of area, moment of inertia
 
-### Measurable Outcomes
+### Reading Assignments
 
 Analyze the structural response of transversely-loaded slender elements: beams; internal forces and beam deflections
 
@@ -191,9 +191,9 @@ Analyze the structural response of transversely-loaded slender elements: beams; 
 
 ### Topics
 
-Analysis of Torsion of slender 1D structural elements: Shafts. Kinematic as- sumptions, internal torque, constitutive law for the cross section: torque-rate- of-twist relation, equilibrium; governing equation; solution for various statically- determinate and indeterminate loading cases
+Analysis of Torsion of slender 1D structural elements: Shafts. Kinematic assumptions, internal torque, constitutive law for the cross-section: torque-rate-of-twist relation, equilibrium; governing equation; solution for various statically- determinate and indeterminate loading cases
 
-### Measurable Outcomes
+### Reading Assignments
 
 Analyze the stability of slender structural elements subject to compressive loads: buck-ling loads, mode shapes, effects of imperfections, and eccentric loads
 
@@ -203,6 +203,6 @@ Analyze the stability of slender structural elements subject to compressive load
 
 Structural instability and buckling of slender 1D elements subject to compressive loads; analysis of buckling loads and mode shapes for various boundary conditions; effect of imperfections and eccentric loading
 
-### Measurable Outcomes
+### Reading Assignments
 
 n/a
