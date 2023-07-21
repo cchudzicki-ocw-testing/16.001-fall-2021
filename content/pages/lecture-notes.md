@@ -15,3 +15,5 @@ The following lecture order is merely for reference. Learners may learn the topi
 {{% resource_link "78bc0b74-6329-4cee-9482-134ea087ea4f" "Lecture: Structural Supports and Reactions; Requirements for Structural Equilibrium" %}}
 
 {{% resource_link "8071b6d9-17b7-4b59-855c-51a6d81a4359" "Lecture: Truss Analysis" %}}
+
+{{% resource_link "777deead-5d00-410d-90e9-0a749a84851c" "Lecture: Statically Indeterminate Systems" %}}
