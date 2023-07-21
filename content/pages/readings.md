@@ -132,7 +132,7 @@ Transformation of strain, Mohr’s circle for strain, principal strains, maximum
 
 ### Reading Assignments
 
-Explain the basis for transforming strain states between two different cartesian bases. Transform two-dimensional strain states, and compute principal strains and directions.  
+\[CDL\] 4.11–4.15 
 
 ## Week 12
 
@@ -142,7 +142,7 @@ Constitutive equations for a linear elastic material; constitutive equations: is
 
 ### Reading Assignments
 
-Describe the constitutive relationship between stress and strain for isotropic and orthotropic linear elastic materials.
+\[CDL\] 5.3,5.4, and 5.10; AJ 3–7; \[CDL\] 5.3,5.4, and 5.10; \[AJ\] 3-7
 
 ## Week 13
 
