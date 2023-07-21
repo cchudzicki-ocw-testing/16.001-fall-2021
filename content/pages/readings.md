@@ -18,7 +18,7 @@ R. Hibbeler, *Mechanics of Materials* (any recent edition), Pearson. ISBN: 97801
 
 Also useful:
 
-M. F. Ashby and D. R. H. Jones, *Engineering Materials 2*, Pergamon Press, 1986. (Polymers, metal alloys)
+M. F. Ashby and D. R. H. Jones, *Engineering Materials 2*, Pergamon Press, 1986. ISBN: 9780080325316.(Polymers, metal alloys)
 
 M. F. Ashby, *Materials Selection in Mechanical Design*, Pergamon Press, 1992 (Materials selection and design)
 
@@ -112,7 +112,7 @@ Stress transformation and Mohr’s circle, principal stresses, maximum shear str
 
 ### Reading Assignments
 
-Explain the basis for transforming stress states between two different cartesian bases.                           
+Explain the basis for transforming stress states between two different cartesian bases.                            
 Transform two-dimensional stress states, and compute principal stresses and directions. 
 
 ## Week 10
