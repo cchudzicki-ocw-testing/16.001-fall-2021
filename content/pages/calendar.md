@@ -30,7 +30,7 @@ Describe the basic mechanical properties of aerospace materials. Describe the ge
 
 ### Topics
 
-Three great principles: equilibrium, compatibility, constitutive material response; equilibrium of a particle, system of particles (freebody diagram)
+Three great principles: equilibrium, compatibility, constitutive material response; equilibrium of a particle, system of particles (free-body diagram)
 
 ### Measurable Outcomes
 
@@ -50,7 +50,7 @@ Determine the relation between applied and transmitted forces and moments, for a
 
 ### Topics
 
-Support  reactions,  freebody  diagrams, static determinacy
+Support reactions, free-body diagrams, static determinacy
 
 ### Measurable Outcomes
 
@@ -94,14 +94,14 @@ Stress transformation and Mohr’s circle, principal stresses, maximum shear str
 
 ### Measurable Outcomes
 
-Explain the basis for transforming stress states between two different cartesian bases.                       
+Explain the basis for transforming stress states between two different cartesian bases.                        
 Transform two-dimensional stress states, and compute principal stresses and directions. 
 
 ## Week 10
 
 ### Topics
 
-Definition of strain,extensional and shear strain, strain-displacement relations
+Definition of strain, extensional and shear strain, strain-displacement relations
 
 ### Measurable Outcomes
 
