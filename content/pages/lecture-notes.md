@@ -41,3 +41,7 @@ The following lecture order is merely for reference. Learners may learn the topi
 {{% resource_link "20fdb81d-8bc0-42b7-9a6c-9208e7376d63" "Lecture: Torsion" %}}
 
 {{% resource_link "7425bfd2-ca5a-4a84-a56a-7473dcd9f6d8" "Lecture: Buckling of Beams" %}}
+
+{{% resource_link "ae1ba061-6373-4b53-8244-725ac411a3ca" "Lecture: Breguet Range Equation" %}}; {{% resource_link "c9656d6c-53de-4db1-90a0-955ab081f547" "Article: Breguet Range Equation" %}}
+
+{{% resource_link "1a9f9482-a582-4fff-a4ab-dace34a6a9e4" "Lecture: Measurement of Physical Quantities, Units, and System of Units" %}}; {{% resource_link "667e1a1f-f276-4c75-a191-2da5437e420e" "Article: Measurement of Physical Quantities, Units, and System of Units" %}}
