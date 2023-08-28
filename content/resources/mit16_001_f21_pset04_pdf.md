@@ -10,10 +10,10 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Problem Sets with Solutions
+- Problem Sets
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: ' Unified Engineering Materials and Structures Pset 04'
+title: Unified Engineering Materials and Structures Pset 04
 uid: 199cdeed-ad73-4c94-a0ae-bea11f8e164b
 video_files:
   archive_url: ''
