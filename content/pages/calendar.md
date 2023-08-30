@@ -30,11 +30,11 @@ Describe the basic mechanical properties of aerospace materials. Describe the ge
 
 ### Topics
 
-Three great principles: equilibrium, compatibility, constitutive material response; equilibrium of a particle, system of particles (free-body diagram)
+Three great principles: equilibrium, compatibility, and constitutive material response; equilibrium of a particle, system of particles (free-body diagram)
 
 ### Measurable Outcomes
 
-Define the “Three Great Principles” of solid mechanics: equilibrium, compatibility, and constitutive response. 
+Define the “three great principles” of solid mechanics: equilibrium, compatibility, and constitutive material response. 
 
 ## Week 04
 
@@ -44,7 +44,7 @@ Planar force systems, equipollent forces
 
 ### Measurable Outcomes
 
-Determine the relation between applied and transmitted forces and moments, for a particle, set of particles, and rigid body in equilibrium. Apply the concept of equipollent force/moment to model and simplify the analysis of force systems. 
+Determine the relation between applied and transmitted forces and moments, for a particle, a set of particles, and a rigid body in equilibrium. Apply the concept of equipollent force/moment to model and simplify the analysis of force systems. 
 
 ## Week 05
 
@@ -54,7 +54,7 @@ Support reactions, free-body diagrams, static determinacy
 
 ### Measurable Outcomes
 
-Represent and use idealizations of structural supports. Draw Free Body Diagrams for structural systems. Classify mechanical systems according to their state of equilibrium: underdetermined, determinate, indeterminate. Calculate reactions in determinate.
+Represent and use idealizations of structural supports. Draw free-body diagrams for structural systems. Classify mechanical systems according to their state of equilibrium: underdetermined, determinate, or indeterminate. Calculate reactions in determinate systems.
 
 ## Week 06
 
@@ -74,17 +74,17 @@ Statically indeterminate systems
 
 ### Measurable Outcomes
 
-Define the constitutive relationship for elastic bars. Apply compatibility of deformation in a variety of structural configurations. Analyze statically indeterminate bar and truss systems using the “Three Great Principles.”
+Define the constitutive relationship for elastic bars. Apply compatibility of deformation in a variety of structural configurations. Analyze statically indeterminate bar and truss systems using the “three great principles.”
 
 ## Week 08
 
 ### Topics
 
-Stress: definition, cartesian components, equilibrium
+Stress: definition, Cartesian components, equilibrium
 
 ### Measurable Outcomes
 
-Define the concept of stress at a material point and its mathematical representation as a second-order tensor. Describe the state of stress at a point using cartesian tensorial components, and their meaning as a measure of the local measure of loading at material points in structural systems. Explain stress equilibrium in differential form.   
+Define the concept of stress at a material point and its mathematical representation as a second-order tensor. Describe the state of stress at a point using Cartesian tensorial components, and their meaning as a measure of the local measure of loading at material points in structural systems. Explain stress equilibrium in differential form. 
 
 ## Week 09
 
@@ -94,8 +94,7 @@ Stress transformation and Mohr’s circle, principal stresses, maximum shear str
 
 ### Measurable Outcomes
 
-Explain the basis for transforming stress states between two different cartesian bases.                        
-Transform two-dimensional stress states, and compute principal stresses and directions. 
+Explain the basis for transforming stress states between two different Cartesian bases. Transform two-dimensional stress states and compute principal stresses and directions. 
 
 ## Week 10
 
@@ -105,7 +104,7 @@ Definition of strain, extensional and shear strain, strain-displacement relation
 
 ### Measurable Outcomes
 
-Define the concept of strain at a material point as the fundamental measure of the local state of deformation and its relation to the displacement field. Describe strain as a second-order tensor, its cartesian components, and their meaning.
+Define the concept of strain at a material point as the fundamental measure of the local state of deformation and its relation to the displacement field. Describe strain as a second-order tensor, its Cartesian components, and their meaning.
 
 ## Week 11
 
@@ -115,7 +114,7 @@ Transformation of strain, Mohr’s circle for strain, principal strains, maximum
 
 ### Measurable Outcomes
 
-Explain the basis for transforming strain states between two different cartesian bases. Transform two-dimensional strain states, and compute principal strains and directions.  
+Explain the basis for transforming strain states between two different Cartesian bases. Transform two-dimensional strain states, and compute principal strains and directions. 
 
 ## Week 12
 
@@ -131,7 +130,7 @@ Describe the constitutive relationship between stress and strain for isotropic a
 
 ### Topics
 
-Engineering elastic constants,  measurement, Generalized Hooke’s law
+Engineering elastic constants, measurement, generalized Hooke’s law
 
 ### Measurable Outcomes
 
@@ -155,14 +154,14 @@ Analysis of rods: uniaxial loading of slender 1D structural elements
 
 ### Measurable Outcomes
 
-Analyze the structural response of uniaxially-loaded slender elements: Rods and bars 
+Analyze the structural response of uniaxially-loaded slender elements: rods and bars 
 
 ## Week 16
 
 ### Topics
 
 1. Analysis of beams: statics, internal forces and their relation to internal stresses; bending moment, shear force and axial force diagrams, concentrated and distributed loads; differential equations of internal equilibrium, kinetic boundary conditions
-2. Euler-Beam Theory:  beam deflections, moment-curvature relation, kinematic boundary conditions. Statically determinate and indeterminate beams
+2. Euler-Beam theory: beam deflections, moment-curvature relation, kinematic boundary conditions. Statically determinate and indeterminate beams
 3. Cross-section properties: first and second moment of area, center of area, moment of inertia
 
 ### Measurable Outcomes
