@@ -17,13 +17,13 @@ Good engineers use accepted standards in reporting work. In regard to submitted
 - Explain your solution clearly and interpret your results.
 - Clearly identify intermediate results and their importance.
 - Units must be explicitly described and identified in all work and solutions.
-- Clearly identify (e.g. underline, box, etc) your final answer for any part of a problem.
+- Clearly identify (e.g. underline, box, etc.) your final answer for any part of a problem.
 
 Communication is a key part of the ability of an engineer. Demonstrating your ability to communicate is part of demonstrating your learning level. The sample that follows is meant to illustrate the proper way to write up a problem solution. You will see the concepts relevant to this problem in the lecture.
 
 {{% resource_link "11fcd391-e451-40a6-b916-137010aec71a" "Unified Engineering Materials and Structures Sample Problem Set" %}}
 
-{{% resource_link "7521f89b-479d-4e1d-8ac0-ac5282135123" "Unified Engineering Materials and Structures Pset 01" %}};  {{% resource_link "8c1f24ad-c195-40ee-a04a-456ffb6f308c" "Unified Engineering Materials and Structures Pset 01 Solution" %}}
+{{% resource_link "7521f89b-479d-4e1d-8ac0-ac5282135123" "Unified Engineering Materials and Structures Pset 01" %}}; {{% resource_link "8c1f24ad-c195-40ee-a04a-456ffb6f308c" "Unified Engineering Materials and Structures Pset 01 Solution" %}}
 
 {{% resource_link "8adf8e4c-57bc-489b-9e31-7a7ec763aaa7" "Unified Engineering Materials and Structures Pset 02" %}}; {{% resource_link "9ccd0421-a0e1-44f2-b47b-4503608046a2" "Unified Engineering Materials and Structures Pset 02 Solution" %}}
 
