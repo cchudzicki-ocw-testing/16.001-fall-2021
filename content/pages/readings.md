@@ -9,7 +9,7 @@ uid: 59a0dec9-e4ea-4194-b446-396e4b281635
 ---
 The following textbooks are used in the reading assignments.
 
-\[CDL\] = S. Crandall, N. Dahl, et al, *An Introduction to the Mechanics of Solids (In SI units)*, McGraw- Hill, 1978. ISBN: 9781259006531.
+\[CDL\] = S. Crandall, N. Dahl, et al., *An Introduction to the Mechanics of Solids (In SI Units)*, McGraw-Hill, 1978. ISBN: 9781259006531.
 
 \[AJ\] = M. F. Ashby and D. R. H. Jones, *Engineering Materials 1: An Introduction to Their Properties and Applications*, Pergamon Press, 1980. ISBN: 9780080261393.
 
@@ -23,7 +23,7 @@ M. F. Ashby and D. R. H. Jones, *Engineering Materials 2: An Introduction to Mic
 
 M. F. Ashby, *Materials Selection in Mechanical Design*, Pergamon Press, 1992. ISBN: 9780750627276.
 
-W. Bickford, *Mechanics of Solids: Concepts and applications*, Irwin, 1993. ISBN: 9780256114256.
+W. Bickford, *Mechanics of Solids: Concepts and Applications*, Irwin, 1993. ISBN: 9780256114256.
 
 ## Week 01
 
@@ -43,17 +43,17 @@ Introduction to aerospace materials
 
 ### Reading Assignments
 
-\[AJ\] 1, and 2
+\[AJ\] 1–2
 
 ## Week 03
 
 ### Topics
 
-Three great principles: equilibrium, compatibility, constitutive material response; equilibrium of a particle, system of particles (freebody diagram)
+Three great principles: equilibrium, compatibility, constitutive material response; equilibrium of a particle, system of particles (free-body diagram)
 
 ### Reading Assignments
 
-\[AJ\] 1, and 2
+\[AJ\] 1–2
 
 ## Week 04
 
@@ -63,17 +63,17 @@ Planar force systems, equipollent forces
 
 ### Reading Assignments
 
-\[CDL\] 1.6, and 1.7 
+\[CDL\] 1.6–1.7 
 
 ## Week 05
 
 ### Topics
 
-Support  reactions,  freebody  diagrams, static determinacy
+Support reactions, free-body diagrams, static determinacy
 
 ### Reading Assignments
 
-\[CDL\] 1.8, and 1.9
+\[CDL\] 1.8–1.9
 
 ## Week 06
 
@@ -93,17 +93,17 @@ Statically indeterminate systems
 
 ### Reading Assignments
 
-\[CDL\] 2.1, 2.4, 1.10, 1.11, and 2.7
+\[CDL\] 2.1, 2.4, 1.10–1.11, and 2.7
 
 ## Week 08
 
 ### Topics
 
-Stress: definition, cartesian components, equilibrium
+Stress: definition, Cartesian components, equilibrium
 
 ### Reading Assignments
 
-\[CDL\] 4.2, 4.3, and 4.4   
+\[CDL\] 4.2–4.4 
 
 ## Week 09
 
@@ -113,17 +113,17 @@ Stress transformation and Mohr’s circle, principal stresses, maximum shear str
 
 ### Reading Assignments
 
-\[CDL\] 4.5, 4.6, and 4.7 
+\[CDL\] 4.5–4.7 
 
 ## Week 10
 
 ### Topics
 
-Definition of strain,extensional and shear strain, strain-displacement relations
+Definition of strain, extensional and shear strain, strain-displacement relations
 
 ### Reading Assignments
 
-\[CDL\] 4.8, 4.9, and 4.10
+\[CDL\] 4.8–4.10
 
 ## Week 11
 
@@ -143,13 +143,13 @@ Constitutive equations for a linear elastic material; constitutive equations: is
 
 ### Reading Assignments
 
-\[CDL\] 5.3,5.4, and 5.10; AJ 3–7; \[CDL\] 5.3,5.4, and 5.10; \[AJ\] 3-7
+\[CDL\] 5.3–5.4, 5.10; \[AJ\] 3–7
 
 ## Week 13
 
 ### Topics
 
-Engineering elastic constants,  measurement, Generalized Hooke’s law
+Engineering elastic constants, measurement, generalized Hooke’s law
 
 ### Reading Assignments
 
@@ -180,18 +180,18 @@ n/a
 ### Topics
 
 1. Analysis of beams: statics, internal forces and their relation to internal stresses; bending moment, shear force and axial force diagrams, concentrated and distributed loads; differential equations of internal equilibrium, kinetic boundary conditions
-2. Euler-Beam Theory:  beam deflections, moment-curvature relation, kinematic boundary conditions. Statically determinate and indeterminate beams
+2. Euler beam theory: beam deflections, moment-curvature relation, kinematic boundary conditions. Statically determinate and indeterminate beams
 3. Cross-section properties: first and second moment of area, center of area, moment of inertia
 
 ### Reading Assignments
 
-\[CDL\] 3.2–3.6, and 3.8; \[CDL\] 7.1-7.5, 8.1, and 8.2
+\[CDL\] 3.2–3.6, 3.8, 7.1–7.5, 8.1–8.2
 
 ## Week 17
 
 ### Topics
 
-Analysis of Torsion of slender 1D structural elements: Shafts. Kinematic assumptions, internal torque, constitutive law for the cross-section: torque-rate-of-twist relation, equilibrium; governing equation; solution for various statically- determinate and indeterminate loading cases
+Analysis of torsion of slender 1D structural elements: shafts. kinematic assumptions, internal torque, constitutive law for the cross-section: torque-rate-of-twist relation, equilibrium; governing equation; solution for various statically determinate and indeterminate loading cases
 
 ### Reading Assignments
 
