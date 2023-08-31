@@ -70,19 +70,13 @@ Doing homework helps to engage with the concepts and material taught in class on
 
 Study groups are considered an educationally beneficial activity. However, at the end of each problem on which you collaborated with other students, you must cite the students and the interaction. The purpose of this is to acknowledge their contribution to your work. Some examples follow:
 
-1\. You discuss concepts, approaches, and methods that could be applied to a homework problem before either of you start your written solution. This process is encouraged. You are not required to make a written acknowledgment of this type of interaction.
-
-2\. After working on a problem independently, you compare answers with another student, which confirms your solution. You must acknowledge that the other student’s solution was used to check your own. No credit will be lost due to this comparison if the acknowledgment is made.
-
-3\. After working on a problem independently, you compare answers with another student, which alerts you to an error in your own work. You must state at the end of the problem that you corrected your error on the basis of checking answers with the other student. No credit will be lost due to this comparison if the acknowledgment is made and if no direct copying of the correct solution is involved.
-
-4\. You and another student work through a problem together, exchanging ideas as the solution progresses, but you each write up your own solution. Each of you must state at the end of the problem that you worked jointly. No credit will be lost due to this cooperation if the acknowledgment is made.
-
-5\. You copy all or part of a solution from a reference such as a textbook or the homework archive available on the Unified website. You must cite the reference. Partial credit will be given since there is some educational value in reading and understanding the solution. However, this practice is strongly discouraged and should be used only when you are unable to solve the problem without assistance.
-
-6\. You copy verbatim all or part of a solution from another student. This process is not considered academically dishonest if the acknowledgment is made. However, you will receive no credit for verbatim copying from another student as you have not made any intellectual contribution to the work you are submitting for credit.
-
-7\. VERBATIM COPYING OR USE OF ANY MATERIAL WHICH YOU SUBMIT FOR CREDIT WITHOUT REFERENCE TO THE SOURCE IS CONSIDERED TO BE ACADEMICALLY DISHONEST and will be treated as such.
+1. You discuss concepts, approaches, and methods that could be applied to a homework problem before either of you start your written solution. This process is encouraged. You are not required to make a written acknowledgment of this type of interaction.
+2. After working on a problem independently, you compare answers with another student, which confirms your solution. You must acknowledge that the other student’s solution was used to check your own. No credit will be lost due to this comparison if the acknowledgment is made.
+3. After working on a problem independently, you compare answers with another student, which alerts you to an error in your own work. You must state at the end of the problem that you corrected your error on the basis of checking answers with the other student. No credit will be lost due to this comparison if the acknowledgment is made and if no direct copying of the correct solution is involved.
+4. You and another student work through a problem together, exchanging ideas as the solution progresses, but you each write up your own solution. Each of you must state at the end of the problem that you worked jointly. No credit will be lost due to this cooperation if the acknowledgment is made.
+5. You copy all or part of a solution from a reference such as a textbook or the homework archive available on the Unified website. You must cite the reference. Partial credit will be given since there is some educational value in reading and understanding the solution. However, this practice is strongly discouraged and should be used only when you are unable to solve the problem without assistance.
+6. You copy verbatim all or part of a solution from another student. This process is not considered academically dishonest if the acknowledgment is made. However, you will receive no credit for verbatim copying from another student as you have not made any intellectual contribution to the work you are submitting for credit.
+7. VERBATIM COPYING OR USE OF ANY MATERIAL WHICH YOU SUBMIT FOR CREDIT WITHOUT REFERENCE TO THE SOURCE IS CONSIDERED TO BE ACADEMICALLY DISHONEST and will be treated as such.
 
 ## Grades
 
