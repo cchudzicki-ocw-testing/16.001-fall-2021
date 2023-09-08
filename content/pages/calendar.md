@@ -161,7 +161,7 @@ Analyze the structural response of uniaxially-loaded slender elements: rods and 
 ### Topics
 
 1. Analysis of beams: statics, internal forces and their relation to internal stresses; bending moment, shear force and axial force diagrams, concentrated and distributed loads; differential equations of internal equilibrium, kinetic boundary conditions
-2. Euler beam theory: beam deflections, moment-curvature relation, kinematic boundary conditions. Statically determinate and indeterminate beams
+2. Euler-Bernoulli beam theory: beam deflections, moment-curvature relation, kinematic boundary conditions. Statically determinate and indeterminate beams
 3. Cross-section properties: first and second moment of area, center of area, moment of inertia
 
 ### Measurable Outcomes
