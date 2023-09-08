@@ -13,7 +13,7 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: 'Lecture: Moment of Intertia of Beam Cross Section Part 01'
+title: 'Lecture: Moment of Inertia of Beam Cross Section Part 01'
 uid: 8eb09d66-a334-4563-b4cb-c76d0348cfe2
 video_files:
   archive_url: ''
