@@ -6,7 +6,7 @@ draft: false
 title: Calendar
 uid: f4ce1b2e-ef0f-4640-9af0-409fefb475c4
 ---
-## Week 01
+## Week 1
 
 ### Topics
 
@@ -16,7 +16,7 @@ Introduction to aerospace structural mechanics
 
 Describe a structure, its functions, and associated objectives and tradeoffs.
 
-## Week 02
+## Week 2
 
 ### Topics
 
@@ -26,7 +26,7 @@ Introduction to aerospace materials
 
 Describe the basic mechanical properties of aerospace materials. Describe the general classes of materials used in aerospace and their specific applications. 
 
-## Week 03
+## Week 3
 
 ### Topics
 
@@ -36,7 +36,7 @@ Three great principles: equilibrium, compatibility, and constitutive material r
 
 Define the “three great principles” of solid mechanics: equilibrium, compatibility, and constitutive material response. 
 
-## Week 04
+## Week 4
 
 ### Topics: 
 
@@ -46,7 +46,7 @@ Planar force systems, equipollent forces
 
 Determine the relation between applied and transmitted forces and moments, for a particle, a set of particles, and a rigid body in equilibrium. Apply the concept of equipollent force/moment to model and simplify the analysis of force systems. 
 
-## Week 05
+## Week 5
 
 ### Topics
 
@@ -56,7 +56,7 @@ Support reactions, free-body diagrams, static determinacy
 
 Represent and use idealizations of structural supports. Draw free-body diagrams for structural systems. Classify mechanical systems according to their state of equilibrium: underdetermined, determinate, or indeterminate. Calculate reactions in determinate systems.
 
-## Week 06
+## Week 6
 
 ### Topics
 
@@ -66,7 +66,7 @@ Truss analysis: method of joints, method of sections
 
 Analyze truss structures using the method of joints and the method of sections.
 
-## Week 07
+## Week 7
 
 ### Topics
 
@@ -76,7 +76,7 @@ Statically indeterminate systems
 
 Define the constitutive relationship for elastic bars. Apply compatibility of deformation in a variety of structural configurations. Analyze statically indeterminate bar and truss systems using the “three great principles.”
 
-## Week 08
+## Week 8
 
 ### Topics
 
@@ -86,7 +86,7 @@ Stress: definition, Cartesian components, equilibrium
 
 Define the concept of stress at a material point and its mathematical representation as a second-order tensor. Describe the state of stress at a point using Cartesian tensorial components, and their meaning as a measure of the local measure of loading at material points in structural systems. Explain stress equilibrium in differential form. 
 
-## Week 09
+## Week 9
 
 ### Topics
 
