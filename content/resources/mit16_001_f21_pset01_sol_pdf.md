@@ -13,7 +13,7 @@ learning_resource_types:
 - Problem Sets with Solutions
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: Unified Engineering Materials and Structures Pset 01 Solution
+title: ' Unified Engineering Materials and Structures Pset 01 Solution'
 uid: 8c1f24ad-c195-40ee-a04a-456ffb6f308c
 video_files:
   archive_url: ''
