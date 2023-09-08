@@ -21,7 +21,7 @@ Good engineers use accepted standards in reporting work. In regard to submitted
 
 Communication is a key part of the ability of an engineer. Demonstrating your ability to communicate is part of demonstrating your learning level. The sample that follows is meant to illustrate the proper way to write up a problem solution. You will see the concepts relevant to this problem in the lecture.
 
-{{% resource_link "11fcd391-e451-40a6-b916-137010aec71a" "Unified Engineering Materials and Structures Sample Problem Set" %}}
+{{% resource_link "b849c113-7bc8-4809-87a4-05614df09a3a" "Unified Engineering Materials and Structures Sample Problem Set" %}}
 
 {{% resource_link "7521f89b-479d-4e1d-8ac0-ac5282135123" "Unified Engineering Materials and Structures Pset 01" %}}; {{% resource_link "8c1f24ad-c195-40ee-a04a-456ffb6f308c" "Unified Engineering Materials and Structures Pset 01 Solution" %}}
 
